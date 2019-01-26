@@ -1,0 +1,12 @@
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\obj\x64\Debug\App.g.cs
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\obj\x64\Debug\MainPage.g.cs
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\obj\x64\Debug\App.xaml
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\obj\x64\Debug\MainPage.xaml
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\obj\x64\Debug\App.xbf
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\obj\x64\Debug\MainPage.xbf
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\obj\x64\Debug\App.xaml.g.cs
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\obj\x64\Debug\MainPage.xaml.g.cs

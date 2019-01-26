@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TestProject"
+             x:Class="TestProject.MainPage">
+
+    <StackLayout>
+        <!--title name-->
+        <StackLayout>
+            <Label Text="Application Title" FontSize="Large"
+             VerticalOptions="Center" HorizontalOptions="Center"/>
+        </StackLayout>
+        <!--car number-->
+        <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="Car Number" HorizontalOptions="Start" />
+            <Entry x:Name="txtCarNumber" HorizontalOptions="Start" WidthRequest="150"/>
+        </StackLayout>
+        <StackLayout x:Name="ctlButtons" Orientation="Vertical">
+            <!--camera button-->
+            <Button x:Name="btnCamera" Text="Camera" Clicked="BtnCamera_Clicked" VerticalOptions="Center" HorizontalOptions="Center" />
+            <!--select button-->
+            <Button x:Name="btnSelect" Text="Select" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <!--send button-->
+            <Button x:Name="btnSend" Text="Send" VerticalOptions="Center" HorizontalOptions="Center" />
+        </StackLayout>
+        <ScrollView HorizontalOptions="Center" VerticalOptions="Center">
+            <StackLayout x:Name="ctlImages" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+            </StackLayout>
+        </ScrollView>
+    </StackLayout>
+
+</ContentPage>

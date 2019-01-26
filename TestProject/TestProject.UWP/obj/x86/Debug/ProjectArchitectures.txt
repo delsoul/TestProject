@@ -1,0 +1,1 @@
+C:\Users\disol\source\repos\TestProject\TestProject\TestProject.UWP\TestProject.UWP.csproj;x86
